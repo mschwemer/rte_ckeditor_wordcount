@@ -1,4 +1,5 @@
 # Register wordcount plugin for ckeditor
 editor:
   externalPlugins:
-    typo3image: { resource: "EXT:rte_ckeditor_wordcount/Resources/Public/JavaScript/Plugins/plugin.js" }
+    notification: { resource: "EXT:rte_ckeditor_wordcount/Resources/Public/JavaScript/Plugins/notification/plugin.js" }
+    wordcount: { resource: "EXT:rte_ckeditor_wordcount/Resources/Public/JavaScript/Plugins/wordcount/plugin.js" }
