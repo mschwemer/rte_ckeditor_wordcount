@@ -1,5 +1,5 @@
 {
-  "name": "mschwemer/rte-ckeditor-wordcount",
+  "name": "mschwemer/rte_ckeditor_wordcount",
   "type": "typo3-cms-extension",
   "description": "Adds the word-count add-on to the CKEditor in TYPO3.",
   "homepage": "https://www.typo3worx.eu",
