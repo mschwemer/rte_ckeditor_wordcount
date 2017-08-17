@@ -8,7 +8,7 @@
     "typo3/cms": "^8.7.0"
   },
   "replace": {
-    "rte-ckeditor-wordcount": "self.version",
+    "rte_ckeditor_wordcount": "self.version",
     "typo3-ter/rte_ckeditor_wordcount": "self.version"
   },
   "config": {
