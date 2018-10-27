@@ -1,8 +1,6 @@
 # Register wordcount plugin for ckeditor
 editor:
   externalPlugins:
-    notification:
-      resource: "EXT:rte_ckeditor_wordcount/Resources/Public/JavaScript/Plugins/notification/"
     wordcount:
       resource: "EXT:rte_ckeditor_wordcount/Resources/Public/JavaScript/Plugins/wordcount/"
       showCharCount: true
